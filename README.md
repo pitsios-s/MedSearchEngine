@@ -22,7 +22,7 @@ The implementation consists of two parts :
 
 * Part1 is used to retrieve all the bigrams found in a subset of wikipedia's medica articles. Note: some articles are not related to medical science at all, so we will get a lot of irrelevant bigrams.
 
-* Part2 uses Apache Lucene in order to create two application for indexing and seraching. The first does simple search, while the second uses the bigrams found earlier that also match bigrams found in the collection(so that irrelevant bigrams do not affect our results).
+* Part2 uses Apache Lucene in order to create two application for indexing and searching. The first does simple search, while the second uses the bigrams found earlier that also match bigrams found in the collection(so that irrelevant bigrams do not affect our results).
 
 ## Contents of the project
 
