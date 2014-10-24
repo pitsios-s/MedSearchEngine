@@ -1,9 +1,7 @@
 MedSearchEngine
 ===============
 
-A search engine for medical documents, created using Apache Lucene.
-
-This project was developed for the purposes of the course 'Information Retrieval' of cs department, Athens University of Economics and Business, during the Winter semester 2013 - 2014.
+A search engine application for medical documents, created using Apache Lucene.
 
 ## Concept
 
